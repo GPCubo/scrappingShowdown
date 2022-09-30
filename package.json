@@ -1,0 +1,24 @@
+{
+  "name": "scrappingshowdown",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsc-watch",
+    "start": "node dist/actions/start.js"
+  },
+  "keywords": [],
+  "author": "Guillermo Gabriel Pantin",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.7.18",
+    "dotenv": "^16.0.2",
+    "tsc-watch": "^5.0.3",
+    "typescript": "^4.8.3"
+  },
+  "dependencies": {
+    "@types/puppeteer": "^5.4.6",
+    "inquirer": "^8.2.4",
+    "puppeteer": "^18.0.5"
+  }
+}

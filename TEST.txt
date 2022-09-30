@@ -1,0 +1,57 @@
+Slowking-Galar @ Waterium Z
+Ability: Regenerator
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+IVs: 0 Atk
+- Sludge Bomb
+- Scald
+- Calm Mind
+- Slack Off
+
+Corviknight @ Rocky Helmet
+Ability: Pressure
+EVs: 252 HP / 172 Def / 84 SpD
+Impish Nature
+IVs: 0 Atk
+- Body Press
+- Iron Defense
+- Roost
+- Defog
+
+Clefable @ Sticky Barb
+Ability: Magic Guard
+EVs: 252 HP / 4 Def / 252 SpD
+Calm Nature
+IVs: 0 Atk
+- Moonblast
+- Trick
+- Soft-Boiled
+- Stealth Rock
+
+Latias-Mega (F) @ Latiasite
+Ability: Levitate
+EVs: 252 HP / 4 SpA / 252 Spe
+Timid Nature
+IVs: 0 Atk
+- Psyshock
+- Mystical Fire
+- Calm Mind
+- Recover
+
+Gastrodon @ Leftovers
+Ability: Storm Drain
+EVs: 252 HP / 4 Def / 252 SpD
+Sassy Nature
+- Scald
+- Earthquake
+- Toxic
+- Recover
+
+Weavile @ Choice Band
+Ability: Pressure
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Triple Axel
+- Knock Off
+- Ice Shard
+- Pursuit
